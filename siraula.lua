@@ -1,6 +1,5 @@
 --[[
-	Code generated using github.com/Herrtt/luamin.js
-	An open source Lua beautifier and minifier.
+	POTA NAMAN AMBOBO NG MGA DEV MGA SIRA ULO JARED TO
 --]]
 
 
